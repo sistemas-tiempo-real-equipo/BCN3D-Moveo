@@ -1,3 +1,11 @@
+# Our part
+
+We have the following tasks: 
+
+-[ ] Print & Assemble the Electronics Box
+
+--- 
+
 # BCN3D MOVEO
 
 This is the repository that contains the CAD files, the STL files, the user manual (with the assembly manual), the firmware, and the Bill of Materials of the BCN3D Moveo.
